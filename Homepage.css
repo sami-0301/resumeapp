@@ -1,0 +1,48 @@
+.Homepage_container{
+    display: flex;
+    align-items: center;
+    height: 60vh;
+}
+.Homepage_left{
+    flex: 0.6;
+    padding-right: 30px;
+}
+.Homepage_right{
+    flex: 0.4;;
+}
+.Homepage_right>img{
+    width:100%;
+}
+.hot_pink{
+    color:hotpink;
+    font-size: 30px;
+}
+.Homepage_left_h1{
+    font-size: 30px;
+    
+}
+.nhp{
+    font-size: 30px;
+}
+.Homepage_left_h2{
+    font-size: 40px;
+    font-weight: 700;
+    margin:-15px 0;
+}
+.Homepage_left_h3{
+    font-size: 30px;
+}
+.Homepage_left_desription{
+    font-size: 15px;
+}
+.Homepage_left_button{
+    margin-top: 25px;
+    font-size: 20px;
+    padding: 8px 10px;
+    background-color: black;
+    color: hotpink;
+    cursor: pointer;
+}
+.logo{
+    height: 70px;
+}
